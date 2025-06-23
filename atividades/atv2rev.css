@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+}
+
+.nome{
+    background-color: aquamarine;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    border-bottom: 2px solid #269282;
+    color: #2b5749;
+}
+
+.dados{
+    text-align: center;
+}
+
+a{
+    text-decoration: none ;
+    color: #2b5749;
+}
+
+.menu a{
+    
+    background-color: aquamarine;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: 2px solid #269282 ;
+    color: #2b5749;
+    border-radius: 30px;
+    transition: 700ms;
+}
+
+.menu a:hover{
+    background-color: black;
+    color: azure;
+}
+
+.menu{
+    list-style-type: none;
+    text-align: right;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0px 10px 15px 15px;
+}
+
+.idiomas{
+    list-style-type: none;
+}
+
+.destaques{
+    background-color: aquamarine;
+    border-bottom: 2px solid #269282;
+    color: #2b5749;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.idiomas{
+    list-style-type: none;
+    text-align: center;
+}

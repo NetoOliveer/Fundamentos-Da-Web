@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ccc;
+
+}
+
+.geral{
+    background-color: chartreuse;
+    width: 600px;
+}
+
+.p1{
+   padding: 20px; 
+}
+
+.p2{
+    border: 5px solid #ec0f0f;
+}
+
+.p3{
+    outline: 5px solid #ec0f0f;
+}
+
+.p4{
+    box-sizing:border-box ;
+    padding: 20px;
+    border: 4px solid #ec0f0f;
+    text-align: justify;
+}
